@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 "# iShare" 
 "# iShare" 
 "# ishare01" 
+"# ishare01" 
