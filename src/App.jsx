@@ -4,7 +4,7 @@ import MainiShare from "./MainiShare";
 
 const darkTheme = createTheme({
   palette: {
-    mode: "dark",
+    mode: "light",
     primary: {
       main: "#e91e63",
     },

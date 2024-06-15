@@ -30,7 +30,7 @@ export const Orders = () => {
             marginBottom: 2,
           }}
         >
-          <Button variant="contained">my credits:1000</Button>
+          <Button variant="contained" size="small">my credits:1000</Button>
           <Link textAlign={"center"} sx={{ cursor: "pointer" }}>
             <small>click here to topup</small>
           </Link>
