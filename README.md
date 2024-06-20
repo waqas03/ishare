@@ -12,3 +12,4 @@ Currently, two official plugins are available:
 "# ishare01" 
 "# ishare01" 
 "# ishare01" 
+"# ishare" 
