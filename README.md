@@ -1,15 +1,6 @@
-# React + Vite
+# to install, you need to follow the below steps.
+1-> make sure nodejs install in you system.
+2->when you clone the the repository or download it. open your app and open terminal inside the app.
+3->type    'npm install --force'   or   'npm install'.this will take 5minits or more depending internet speed and machine.make sure commands should not include the qoutes
+4->once it installed, type commande 'npm start', or 'npm run dev'. make sure commands should not include the qoutes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# iShare" 
-"# iShare" 
-"# iShare" 
-"# ishare01" 
-"# ishare01" 
-"# ishare01" 
-"# ishare" 
